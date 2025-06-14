@@ -6,7 +6,6 @@ This project serves as supplementary material to paper **Radiation-Scattering Ar
     ├── 16×16.txt                      // This document contains the position coordinates (X, Y) of each antenna in a 16 * 16 antenna array
     
     ├── ReadMe.md                      // Help document
-    
-    ├── array-element-positions.7z     // A compressed file containing Optimized antenna array element positions of 1 * 16 and 16 * 16
+
     
 
